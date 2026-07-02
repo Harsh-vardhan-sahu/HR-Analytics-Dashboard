@@ -23,7 +23,7 @@ This project aims to answer important business questions such as:
 
 ## 📈 Dashboard Preview
 
-![HR Analytics Dashboard](Snapshot of DashBoard)
+![HR Analytics Dashboard](hr-dashboard.png)
 
 ---
 
